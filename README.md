@@ -27,10 +27,16 @@ Comunicação entre APIs com RABBIT MQ
 - Resiliência
 
 Dapper
+
 Query Stack
+
 Testes de Integração e de unidade
+
 JWK e JWKS
+
 gRPC
+
 DOCKER
+
 
 
